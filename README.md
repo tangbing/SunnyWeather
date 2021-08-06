@@ -1,2 +1,0 @@
-# SunnyWeather
-SunnyWeather
